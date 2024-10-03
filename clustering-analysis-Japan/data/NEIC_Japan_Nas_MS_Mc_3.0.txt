@@ -1,0 +1,9 @@
+# MAG          N-AS          N-FS        MS-ID; note N_AS=0 highlights singles or FS only
+     5.000         0         1             0
+     4.400         0         0            10
+     4.500         0         0             9
+     4.500         0         0             6
+     4.400         0         0             5
+     4.500         0         0             4
+     4.800         0         0             3
+     5.200         0         0             2
